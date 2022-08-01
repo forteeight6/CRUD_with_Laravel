@@ -34,5 +34,9 @@ Ps. A tabela padrão migrations do Laravel armazena todas as tabelas que ja fora
 10º Para testar ligue o servidor do Laravel e acesse pelo navegador para ver se esta tudo ok. O comando para fazer isso é >> php artisan serve.
   Ps: Este comando ira ligar o servidor nativo do Lavarel, e a aplicação poderá ser acessada em localhost:8000.
   
+11º Para depurar código no Lavarel utilize a função nativa do Lavarel dd().
+  Exemplo: dd($request->all());
+  Ps. Essa função ira printar o retorno do que foi passado como parametro formatadamente.
+  
 Continuar esse Tutorial...
   
