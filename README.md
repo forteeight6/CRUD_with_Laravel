@@ -1,5 +1,8 @@
 # CRUD_with_Laravel
 
+0º Para instalar o Laravel use o comando composer create-project --prefer-dist laravel/laravel <nome do projeto>
+  Exemplo: composer create-project --prefer-dist laravel/laravel crud_basico
+
 1º A configuração do banco de dados é feito no documento .env;
 
 2º Por padrão o Laravel requisita a inserção de umas tabelas no banco de dados, os scripts de criação esta presente no diretorio migrations;
