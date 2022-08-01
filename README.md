@@ -40,5 +40,7 @@ Ps. A tabela padrão migrations do Laravel armazena todas as tabelas que ja fora
   
 12º Por padrão no Lavarel nos formularios tem que se usar a função @csrf, para impedir que informações sejam enviadas de outros lugares que não seja de nossa aplicação. 
  
+13º https://stackoverflow.com/questions/5162960/should-put-and-delete-be-used-in-forms
+
 Continuar esse Tutorial...
   
