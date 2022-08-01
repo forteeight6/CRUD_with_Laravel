@@ -38,5 +38,7 @@ Ps. A tabela padrão migrations do Laravel armazena todas as tabelas que ja fora
   Exemplo: dd($request->all());
   Ps. Essa função ira printar o retorno do que foi passado como parametro formatadamente.
   
+12º Por padrão no Lavarel nos formularios tem que se usar a função @csrf, para impedir que informações sejam enviadas de outros lugares que não seja de nossa aplicação. 
+ 
 Continuar esse Tutorial...
   
